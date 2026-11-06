@@ -1,12 +1,21 @@
 # Changelog
 
-## v0.2.0 — release candidate (2026-11-06)
-- Strengthened factual-claim and CTA safety: confirmed information, drafts, unknown links, no fake booking or accessibility claims.
-- Added WordPress core capability boundaries, publication NO-GO rules, and explicit browser QA handoff.
-- Added regression scenarios for procurement, local appointments, and conflicting booking/payment requirements.
-- Added an offline regression script to supplement the existing static validator.
-- One limited v0.2.0 Codex smoke test reported successful skill loading and safe fictional blueprint output; no independent quality audit.
-- No production WordPress site, marketplace submission, or complete accessibility audit was performed.
+## Unreleased — English-first documentation refresh (2026-11-06)
+
+- Expanded the public README for an international audience.
+- Clarified use cases, what is and is not included, and limitations.
+- Added a public FAQ and a separate validation-status page.
+- Kept the proprietary Skill package outside the public repository.
+- No changes to the privately tested v0.2.0 Skill implementation are represented by this documentation update.
+
+## v0.2.0 — public preview (2026-11-06)
+
+- Improved factual-claim handling and draft-only CTA guidance in the private Skill.
+- Documented Gutenberg capability boundaries and publication blockers.
+- Added release-regression scenarios and one offline regression script in the private package.
+- One limited Codex smoke test reported successful skill loading and safe fictional blueprint output.
+- Did not build a live WordPress site or complete an independent accessibility/security audit.
 
 ## v0.1.0
-- Initial Agent Skill, references, sample, five manual test cases, structural validation and contrast utility.
+
+- Initial private Agent Skill prototype, supporting references, examples, test cases, structure validation and contrast utility.
