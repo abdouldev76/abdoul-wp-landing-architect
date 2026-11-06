@@ -33,6 +33,14 @@
 
 **Example safety rule:** When the recipient email address is unknown, an email CTA stays **DRAFT ONLY**; there is no invented `mailto:` link or functional booking button.
 
+## Try the public Figma Skill
+
+**Abdoul Landing UX Planner** is an English-first AI Skill for landing-page planning, responsive UX, accessibility guidance, and design handoff.
+
+**[Try Abdoul Landing UX Planner on Figma Community](https://www.figma.com/community/skill/159046/abdoul-landing-ux-planner)**
+
+This public Figma Skill is separate from the private multi-file WordPress Agent Skill. The proprietary implementation and scripts are not included.
+
 ## What is available here?
 
 This repository is a **public documentation preview only**. It does **not** include the private runnable `SKILL.md`, proprietary references, scripts, or full Skill distribution package. GitHub's automatically generated source archives contain only this public documentation and cannot be installed as the full Agent Skill.
